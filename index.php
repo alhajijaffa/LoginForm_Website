@@ -21,7 +21,10 @@ session_unset();
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Management Suite - Login</title>
+    <meta name="description" content="A student management system with admin, teacher and student dashboards built by jaffa">
+    <meta name="keyword" content="student management system with admin, teacher, php backend and student dashboard">
+    <meta name="author" content="Alhaji jaffa kargbo">
+    <title>Jaffa | Student Management Suite - Login</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
