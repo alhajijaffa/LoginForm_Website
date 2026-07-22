@@ -2,7 +2,6 @@
 
 A simple PHP backend login system built with PHP, HTML, CSS,JavaScript and MYSQL.
 This project demostrate user authentication and role based access for Admin, Teacher and student
-click here to view it https://alhajijaffa.github.io/LoginForm_Website
 
 ## Features
 - User Login Authentication
@@ -49,21 +48,21 @@ click here to view it https://alhajijaffa.github.io/LoginForm_Website
      - MySQL
      - A web server (Apache, php's built-in server)
        
- 3. Create MySQL database
+  3. Create MySQL database
 
- 4.Update the database credentials in config.php
+  4.Update the database credentials in config.php
 
- 5.Start your web server
+  5.Start your web server
 
- 6. open the project in your browser:
+  6. open the project in your browser:
   ```
   https://localhost/LoginForm_Website/
  ```
-Or , if using PHP's built-in server:
-```
-go to your terminal and type
-php-s localhost:800
-```
-## Author 
-** Alhaji Jaffa kargbo**
-CLICK here and go through my github account => https://github.com/alhajijaffa
+  Or , if using PHP's built-in server:
+ ```
+  go to your terminal and type
+  php-s localhost:800
+  ```
+  ## Author 
+  ** Alhaji Jaffa kargbo**
+  CLICK here and go through my github account => https://github.com/alhajijaffa
