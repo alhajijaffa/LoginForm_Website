@@ -20,7 +20,7 @@ This project demostrate user authentication and role based access for Admin, Tea
 * CSS
 * JavaScript
 
-* ## Project Structure
+ ## Project Structure
   
   LoginForm_Website/
   |__Images/
@@ -66,4 +66,4 @@ This project demostrate user authentication and role based access for Admin, Tea
   ```
   ## Author 
   ** Alhaji Jaffa kargbo**
-  CLICK here and go through my github account => https://github.com/alhajijaffa
+  CLICK here and go through my github account => https://github.com/alhajijaffa/LoginForm_Website
