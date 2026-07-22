@@ -39,22 +39,23 @@ This project demostrate user authentication and role based access for Admin, Tea
 
   ## Installation
   
-  1. clone the repository:
+  1 clone the repository:
+  
   Go to your terminal and create a new folder, inside your new folder
   type this => git clone https://github.com/alhajijaffa/LoginForm_Website.git
 
-  2. Make sure you install the following installed:
+  2  Make sure you install the following installed:
      - PHP 8.x 
      - MySQL
      - A web server (Apache, php's built-in server)
        
-  3. Create MySQL database
+  3 Create MySQL database
 
-  4.Update the database credentials in config.php
+  4 Update the database credentials in config.php
 
-  5.Start your web server
+  5 Start your web server
 
-  6. open the project in your browser:
+  6 open the project in your browser:
   ```
   https://localhost/LoginForm_Website/
  ```
