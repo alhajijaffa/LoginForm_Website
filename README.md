@@ -1,4 +1,4 @@
-#LoginForm Website (php Backend project)
+##LoginForm Website (php Backend project)
 
 A simple PHP backend login system built with PHP, HTML, CSS,JavaScript and MYSQL.
 This project demostrate user authentication and role based access for Admin, Teacher and student.
@@ -65,4 +65,4 @@ php-s localhost:800
 ```
 ## Author 
 ** Alhaji Jaffa kargbo**
-CILCK here and go through my github account => https://github.com/alhajijaffa
+CLICK here and go through my github account => https://github.com/alhajijaffa
